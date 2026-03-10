@@ -1,0 +1,21 @@
+# STM32CubeIDE build files
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# STM32CubeIDE project files
+.cproject
+.project
+.settings/
+
+# Mac files
+.DS_Store
+
+# Object files
+*.obj
