@@ -128,10 +128,9 @@ python3 visualizer.py
 ---
 
 ## Author
-
-**Siddhesh Saraf**  
+Siddhesh67
 Embedded Systems | STM32 | C | Python  
-[GitHub](https://github.com/YOURUSERNAME) | [LinkedIn](https://linkedin.com/in/YOURUSERNAME)
+
 
 ---
 
