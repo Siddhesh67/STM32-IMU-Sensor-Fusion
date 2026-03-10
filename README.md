@@ -2,7 +2,7 @@
 
 Real-time orientation estimation using MPU6050 IMU and Kalman Filter on STM32 Nucleo F401RE (ARM Cortex-M4 @ 84MHz), with a live 3D Python visualizer.
 
-![Demo](demo.gif)
+
 
 ---
 
